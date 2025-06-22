@@ -13,6 +13,7 @@ plans,and analytics. Reduced operating costs, better communication, more satisfa
 6. Equipment Inventory
 7. Payment Monitoring(Dashboard)
 8. Integrate QR code attendance with SMS support
+   
 ![image](https://github.com/user-attachments/assets/60d07ed8-b8d5-4486-80e7-fbe927847a31)
 
 # Requirements For Installation
